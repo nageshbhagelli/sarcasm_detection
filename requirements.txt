@@ -1,0 +1,11 @@
+torch
+transformers
+pandas
+scikit-learn
+shap
+beautifulsoup4
+newspaper3k
+matplotlib
+seaborn
+tqdm
+ipywidgets

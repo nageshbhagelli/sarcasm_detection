@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and large binaries
+*.bin
+*.pth
+*.h5
+
+# Datasets (Optional, keeping it commented if you want to push small JSONs)
+# Sarcasm_Headlines_Dataset.json
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
+desktop.ini
